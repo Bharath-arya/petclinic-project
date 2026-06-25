@@ -1,0 +1,11 @@
+/home/vishal/Desktop/sonar/Petclinic/src/test/java/org/springframework/samples/petclinic/web/CrashControllerTests.java
+/home/vishal/Desktop/sonar/Petclinic/src/test/java/org/springframework/samples/petclinic/web/VisitControllerTests.java
+/home/vishal/Desktop/sonar/Petclinic/src/test/java/org/springframework/samples/petclinic/model/ValidatorTests.java
+/home/vishal/Desktop/sonar/Petclinic/src/test/java/org/springframework/samples/petclinic/service/ClinicServiceJpaTests.java
+/home/vishal/Desktop/sonar/Petclinic/src/test/java/org/springframework/samples/petclinic/service/ClinicServiceSpringDataJpaTests.java
+/home/vishal/Desktop/sonar/Petclinic/src/test/java/org/springframework/samples/petclinic/web/OwnerControllerTests.java
+/home/vishal/Desktop/sonar/Petclinic/src/test/java/org/springframework/samples/petclinic/web/PetTypeFormatterTests.java
+/home/vishal/Desktop/sonar/Petclinic/src/test/java/org/springframework/samples/petclinic/web/VetControllerTests.java
+/home/vishal/Desktop/sonar/Petclinic/src/test/java/org/springframework/samples/petclinic/web/PetControllerTests.java
+/home/vishal/Desktop/sonar/Petclinic/src/test/java/org/springframework/samples/petclinic/service/ClinicServiceJdbcTests.java
+/home/vishal/Desktop/sonar/Petclinic/src/test/java/org/springframework/samples/petclinic/service/AbstractClinicServiceTests.java
